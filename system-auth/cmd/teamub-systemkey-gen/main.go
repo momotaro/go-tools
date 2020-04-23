@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	auth "bitbucket.org/linksportsinc/go-tools/system-auth"
+	auth "github.com/momotaro/go-tools/system-auth"
 	"github.com/urfave/cli/v2"
 )
 
